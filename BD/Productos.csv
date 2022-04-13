@@ -1,0 +1,78 @@
+IdCodigoB,IdProducto,NombreProducto,Proveedor,Categoría,CantidadPorUnidad,PrecioUnidad,UnidadesEnExistencia,Suspendido
+14675,1,Té,Nature Life,Bebidas,10 cajas x 20 bolsas,15,39,FALSE
+89883,2,Jugo de Naranja,Nature Life,Bebidas,10 - bot. 5 Lts,20,17,FALSE
+64442,3,Pimiento molido,Nature Life,Condimentos,12 - bot. 550 ml,20,13,FALSE
+30583,4,Especias agrias,Cocina Natural,Condimentos,48 - frascos 6 l,24,53,FALSE
+65588,5,Mezcla para salsa picante,La granja,Condimentos,36 cajas,22.35,0,TRUE
+34634,6,Mermelada de fresa,La granja,Condimentos,12 - frascos 8 l,30,120,FALSE
+32471,7,Peras,La casa de las frutas,Frutas/Verduras,12 - paq. 1 kg,30,15,FALSE
+75918,8,Salsa tipo búfalo,Cocina Natural,Condimentos,12 - frascos 12 l,41,6,FALSE
+95222,9,Pollo dorado,Dorado,Carnes,2.5 Kg,97,29,TRUE
+34563,10,Atún en agua,Dolores,Pescado/Marisco,12 - frascos 200 ml,31,31,FALSE
+22044,11,Queso tipo Chedar,Quesos La Granja,Lácteos,paq. 1 kg,20,22,FALSE
+86204,12,Queso tipo Manchego,Quesos La Granja,Lácteos,10 - paq. 250 g,35,86,FALSE
+71354,13,Pescado,Dolores,Pescado/Marisco,caja 2 kg,6,24,FALSE
+72802,14,Frijol en grano,La casa de las frutas,Frutas/Verduras,40 - paq. 100 g,23.25,35,FALSE
+50455,15,Salsa de soya,Cocina Natural,Condimentos,24 - bot. 250 ml,16.2,39,FALSE
+36491,16,Merengue,La casita,Repostería,32 - cajas 500 g,18.4,29,FALSE
+27628,17,Alitas de pollo,Dorado,Carnes,20 - alitas,39,0,TRUE
+19279,18,Langosta,Dolores,Pescado/Marisco,paq. 16 kg,62.5,42,FALSE
+99532,19,Chocolate en polvo,La casita,Repostería,10 cajas x 12 piezas,9,25,FALSE
+26546,20,Mermelada de Piña,La casita,Repostería,30 cajas regalo,95,40,FALSE
+27937,21,Betun sabor cholate,La casita,Repostería,24 paq. x 4 piezas,11,3,FALSE
+10688,22,Crujitos de pan,El Molino,Granos/Cereales,12 - paq. 500 g,31,104,FALSE
+32511,23,Pan molido,El Molino,Granos/Cereales,12 - paq. 320 g,8,61,FALSE
+49629,24,Refresco de Cola,Energy Run,Bebidas,12 - latas 355 ml,4.5,20,TRUE
+26790,25,Crema sabor cacao,Dulce Recuerdo,Repostería,20 - vasos  450 g,15.5,76,FALSE
+39465,26,Chispas de colores,Dulce Recuerdo,Repostería,100 - bolsas 250 g,10,15,FALSE
+49819,27,Barra de Chocolate,Dulce Recuerdo,Repostería,100 - piezas 100 g,50,49,FALSE
+54172,28,Piña en almibar,La casa de las frutas,Frutas/Verduras,25 - latas 825 g,45.6,26,TRUE
+21746,29,Salchicha de pavo,La granja,Carnes,25 bolsas x 30 salch,123.79,0,TRUE
+86702,30,Camarones frescos,Atlantis,Pescado/Marisco,10 - vasos 200 g,25.89,10,FALSE
+85229,31,Queso Mozzarella,Quesos de Oaxaca,Lácteos,12 - paq. 200 g,14.5,0,FALSE
+57388,32,Queso Americano,Quesos de Oaxaca,Lácteos,24 - paq. 220 g,24,9,FALSE
+27240,33,Queso de Oaxaca,Quesos de Oaxaca,Lácteos,1 kg,10,112,FALSE
+87685,34,Refresco de Manzana,Energy Run,Bebidas,24 - latas 355 ml,8,111,FALSE
+95024,35,Refresco de Uva,Energy Run,Bebidas,12 - latas 355 ml,5,20,FALSE
+29177,36,Pulpo,Atlantis,Pescado/Marisco,24 - frascos 250 g,19,112,FALSE
+48521,37,Salmón ahumado,Atlantis,Pescado/Marisco,12 - paq. 500 g,26,11,FALSE
+26326,38,Refresco de toronja,Refrescante,Bebidas,24 - latas 355 ml,7.5,17,FALSE
+51229,39,Agua mineral,Refrescante,Bebidas,10 - bot 1L,18,69,FALSE
+98426,40,Algas,Atlantis,Pescado/Marisco,24 - latas 4 l,18.4,123,FALSE
+60090,41,Crema de almejas,Poseidon,Pescado/Marisco,12 - latas 12 l,9.65,85,FALSE
+12369,42,Tallarines,Venecia,Granos/Cereales,30 - 1 kg paq.,16,26,TRUE
+78881,43,Café Americano,Café Life,Bebidas,16 - latas 500 g,46,17,FALSE
+99727,44,Azúcar morena,El Molino,Condimentos,20 - bolsas 2 kg,18.5,27,FALSE
+49842,45,Arenque ahumado,Poseidon,Pescado/Marisco,paq. 1k,9.5,5,FALSE
+16105,46,Arenque salado,Poseidon,Pescado/Marisco,4 - vasos 450 g,12,95,FALSE
+66890,47,Galletas Mari,Recuerdos,Repostería,10 - cajas 4 l,11.3,36,FALSE
+48651,48,Chocolate derretido,Recuerdos,Repostería,10 paq.,14.75,15,FALSE
+94944,49,Molde para pastel,Recuerdos,Repostería,24 - paq. 50 g,21,10,FALSE
+38931,50,Chocolate blanco,Recuerdos,Repostería,12 - barras 100 g,14,65,FALSE
+19463,51,Manzanas secas,Abol de Vida,Frutas/Verduras,50 - paq. 300 g,53,20,FALSE
+71941,52,Cereal bajo en grasa,El Molino,Granos/Cereales,15 - cajas 2 kg,24,38,FALSE
+54951,53,Pollo ahumado,Dorado,Carnes,2.5 Kg,32.8,0,TRUE
+87529,54,Chorizo,La granja,Carnes,1 Kg,7.45,21,FALSE
+58839,55,Paté,La granja,Carnes,1 kg,24,115,FALSE
+17959,56,Cereal sabor chocolate,El Molino,Granos/Cereales,16 - paq. 250 g,37,21,FALSE
+81590,57,Raviolis,Venecia,Granos/Cereales,20 - paq. 250 g,10,36,FALSE
+64971,58,Caracoles,Poseidon,Pescado/Marisco,24 porc.,13.25,62,FALSE
+75083,59,Leche entera,La Vaquita Feliz,Lácteos,10 - cajas 250 ml,10,79,FALSE
+82871,60,Leche deslactosada,La Vaquita Feliz,Lácteos,15 - cajas. 250 ml,15,19,FALSE
+41749,61,Sal,Cocina Natural,Condimentos,24 - bot. 500 ml,30.5,113,FALSE
+42215,62,Model para panques,Globo,Repostería,48 tartas,13.5,17,FALSE
+78599,63,Ajo molido,Cocina Natural,Condimentos,15 - frascos 625 g,40,24,FALSE
+15489,64,Pan para hamburguesas,Venecia,Granos/Cereales,20 bolsas x 6 porc.,25.6,22,FALSE
+44726,65,Salsa roja,Cocina Natural,Condimentos,32 - bot. 8 l,20,76,FALSE
+63647,66,Cilantro,El Molino,Condimentos,24 - frascos 8 l,16,4,FALSE
+90428,67,Agua,Café Life,Bebidas,24 - bot. 12 l,14,52,FALSE
+81678,68,Barras de pan,Globo,Repostería,10 cajas x 8 porc.,11,6,FALSE
+53771,69,Queso panela,Quesos La Granja,Lácteos,paq. 1 kg,16,26,FALSE
+36519,70,Refreso hidratante,Refrescante,Bebidas,24 - latas 355 ml,15,15,FALSE
+13390,71,Crema,Quesos La Granja,Lácteos,10 - paq. 500 ml,22.5,26,FALSE
+89776,72,Yogurt,La Vaquita Feliz,Lácteos,24 - paq. 1 L,31.8,14,FALSE
+26582,73,Róbalo,Poseidon,Pescado/Marisco,24 - frascos150 g,15,101,FALSE
+14901,74,Manzanas,Abol de Vida,Frutas/Verduras,paq. 5 kg,10,4,FALSE
+16296,75,Vino tinto,Vinos La hacienda,Bebidas,1 - bot. 750 ml,250,125,FALSE
+91606,76,Vino blanco,Vinos La hacienda,Bebidas,1 - bot. 750 ml,200,57,FALSE
+12518,77,Salsa verde,El Molino,Condimentos,12 cajas,12,32,FALSE
